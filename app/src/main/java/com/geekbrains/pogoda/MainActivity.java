@@ -53,5 +53,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //  я пытался :-)/
+    //  я пытался :-)
 
